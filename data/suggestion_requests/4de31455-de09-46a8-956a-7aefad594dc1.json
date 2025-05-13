@@ -1,0 +1,11 @@
+{
+  "precedentId": [
+    {
+      "id": "40f0ecc7-9498-4fe5-b7bd-86ebdedddc81",
+      "version": "1"
+    }
+  ],
+  "explanation": "The clause requires the Receiving Party to \u201cimmediately notify\u201d the Disclosing Party whenever disclosure is compelled, but it does not add the qualifying phrase that notification is excused when prohibited by law (e.g., gag orders).  Although a later sentence limits notice in the narrow context of certain regulatory inspections, the main notification obligation remains unconditional and could conflict with legal restrictions on giving notice.  Because the rule calls for notice \u201cunless prohibited by law,\u201d the contract language is missing that explicit exception, so it does not fully comply.",
+  "rule": "Require the Recipient to notify the Discloser of any subpoena or legal process seeking Confidential Information, unless prohibited by law.",
+  "exampleLanguage": "If the Recipient receives a subpoena, court order, or other legal process requesting disclosure of any Confidential Information, the Recipient shall promptly notify the Discloser in writing, unless prohibited by law, to allow the Discloser to seek a protective order or other appropriate remedy."
+}

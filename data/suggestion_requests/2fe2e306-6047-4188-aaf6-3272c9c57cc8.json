@@ -1,0 +1,11 @@
+{
+  "precedentId": [
+    {
+      "id": "40f0ecc7-9498-4fe5-b7bd-86ebdedddc81",
+      "version": "1"
+    }
+  ],
+  "explanation": "The agreement states that it ends after one year and only notes that the Receiving Party is not relieved from liability for past breaches. It does not expressly state that the core confidentiality obligations themselves continue after termination, nor does it specify any survival period (e.g., five years). The return/destruction clause says retained material remains subject to the Agreement \u2018for so long as such material is retained,\u2019 which is indefinite and still lacks an explicit survival-period statement. Therefore, the contract does not meet the rule requiring confidentiality obligations to survive termination or expiration for a specified period.",
+  "rule": "State that confidentiality obligations survive termination or expiration of the NDA for the specified period.",
+  "exampleLanguage": "The confidentiality obligations set forth in this Agreement shall survive the termination or expiration of this Agreement for a period of five (5) years."
+}

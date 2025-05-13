@@ -1,0 +1,11 @@
+{
+  "precedentId": [
+    {
+      "id": "9766d88d-1e1f-4125-9011-62c77a3c8718",
+      "version": "1"
+    }
+  ],
+  "explanation": "The clause does state that the NDA is the parties\u2019 entire agreement and that it supersedes all prior \u201cdiscussions and agreements.\u201d  However, the rule requires language that it supersedes all prior \u201cagreements or understandings.\u201d  The term \u201cunderstandings\u201d (or an evident synonym) is absent, so the clause does not fully track the required scope.  Therefore the current language is not fully compliant with the rule.",
+  "rule": "State that the NDA constitutes the entire agreement between the parties regarding the subject matter and supersedes all prior agreements or understandings.",
+  "exampleLanguage": "This Agreement constitutes the entire agreement between the parties with respect to the subject matter hereof and supersedes all prior and contemporaneous agreements, understandings, and communications, whether written or oral, relating to such subject matter."
+}

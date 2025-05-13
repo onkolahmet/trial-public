@@ -1,0 +1,11 @@
+{
+  "precedentId": [
+    {
+      "id": "9766d88d-1e1f-4125-9011-62c77a3c8718",
+      "version": "1"
+    }
+  ],
+  "explanation": "Although the clause requires the Receiving Party, upon the Disclosing Party\u2019s request, to promptly return or destroy Confidential Information, it then permits the Receiving Party to retain Confidential Information for compliance or backup purposes. The lawyer\u2019s rule mandates that ALL Confidential Information, including copies, extracts, and summaries, be returned or destroyed upon request without carve-outs. The retention exceptions therefore conflict with the rule.",
+  "rule": "Require the Recipient to promptly return or destroy all Confidential Information upon the Discloser's written request, including all copies, extracts, and summaries.",
+  "exampleLanguage": "Upon the Discloser's written request, the Recipient shall promptly return or destroy all Confidential Information, including all copies, extracts, and summaries thereof."
+}

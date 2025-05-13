@@ -1,0 +1,11 @@
+{
+  "precedentId": [
+    {
+      "id": "9766d88d-1e1f-4125-9011-62c77a3c8718",
+      "version": "1"
+    }
+  ],
+  "explanation": "The clause only states that the agreement terminates after one year and that the Receiving Party remains liable for breaches that occurred before termination. It does not set a specific post-termination period during which confidentiality obligations continue (e.g., two to five years after disclosure or termination). Therefore, the contract fails to specify the required duration of confidentiality obligations, making it non-compliant with the rule.",
+  "rule": "Specify the duration of confidentiality obligations, commonly two to five years from the date of disclosure or termination of the agreement.",
+  "exampleLanguage": "The confidentiality obligations set forth in this Agreement shall remain in effect for a period of [three (3)] years following the date of disclosure of any Confidential Information, or for a period of [three (3)] years following the termination of this Agreement, whichever is later."
+}

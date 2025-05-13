@@ -1,0 +1,11 @@
+{
+  "precedentId": [
+    {
+      "id": "9766d88d-1e1f-4125-9011-62c77a3c8718",
+      "version": "1"
+    }
+  ],
+  "explanation": "The clause limits use of Confidential Information to the Receiving Party\u2019s \u201cevaluation, negotiation and consummation of the potential Transaction.\u201d  Because it explicitly permits use for \u201cnegotiation and consummation,\u201d the clause authorizes purposes beyond mere evaluation of the relationship.  The rule requires that use be limited solely to evaluation of the potential business relationship, with no other purposes permitted.  Therefore the contract language is broader than the rule allows and is not fully compliant.",
+  "rule": "Prohibit the Recipient from using Confidential Information for any purpose other than evaluating the potential business relationship.",
+  "exampleLanguage": "The Recipient agrees to use the Confidential Information solely for the purpose of evaluating a potential business relationship with the Disclosing Party and shall not use such information for any other purpose without the prior written consent of the Disclosing Party."
+}

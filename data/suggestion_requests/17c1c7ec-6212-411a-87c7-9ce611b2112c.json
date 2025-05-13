@@ -1,0 +1,11 @@
+{
+  "precedentId": [
+    {
+      "id": "40f0ecc7-9498-4fe5-b7bd-86ebdedddc81",
+      "version": "1"
+    }
+  ],
+  "explanation": "The NDA authorizes disclosure only to \"Representatives,\" defined as directors, officers, employees, advisors, legal counselors, consultants and agents. Affiliates are not included in this definition, so the agreement does not expressly permit disclosure of Confidential Information to them. A later non-solicitation clause refers to affiliates \"to the extent that any such affiliates have received Confidential Information,\" which implies that affiliates might receive information but does not state whether such disclosure is allowed or that the affiliates are bound by equivalent confidentiality obligations. Because the agreement neither clearly includes affiliates as parties nor expressly permits their receipt of Confidential Information under specified conditions, it fails to satisfy the rule\u2019s requirement for clarity on affiliates.",
+  "rule": "Clarify whether affiliates of the parties are included as parties to the NDA or are permitted to receive Confidential Information.",
+  "exampleLanguage": "The Receiving Party may disclose Confidential Information to its Affiliates, provided that such Affiliates are bound by confidentiality obligations no less restrictive than those contained in this Agreement. The Receiving Party shall remain fully responsible for ensuring that its Affiliates comply with these obligations."
+}

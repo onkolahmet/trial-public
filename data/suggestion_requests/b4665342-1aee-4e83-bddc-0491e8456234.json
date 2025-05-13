@@ -1,0 +1,11 @@
+{
+  "precedentId": [
+    {
+      "id": "9766d88d-1e1f-4125-9011-62c77a3c8718",
+      "version": "1"
+    }
+  ],
+  "explanation": "The clause makes clear that the Disclosing Party has no obligation to provide Confidential Information or updates. However, it is silent on whether the Receiving Party (or the parties generally) has any obligation to disclose information. Because the rule requires the NDA to state that neither party is obligated to disclose any particular information, the current language only partially satisfies the requirement and therefore is not fully compliant.",
+  "rule": "Clarify that neither party is obligated to disclose any particular information under the NDA.",
+  "exampleLanguage": "Neither party is obligated to disclose any particular information under this Agreement."
+}

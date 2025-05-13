@@ -1,0 +1,11 @@
+{
+  "precedentId": [
+    {
+      "id": "9766d88d-1e1f-4125-9011-62c77a3c8718",
+      "version": "1"
+    }
+  ],
+  "explanation": "The contract sets a one-year term and only states that (i) retained backup copies remain subject to the Agreement while they are retained and (ii) the Receiving Party is not relieved of liability for breaches that occurred before termination. It never expressly states that the confidentiality obligations themselves continue after the Agreement terminates or for any specified survival period. Therefore, the contract does not satisfy the rule requiring an explicit survival clause for confidentiality obligations for a defined period after termination or expiration.",
+  "rule": "State that confidentiality obligations survive termination or expiration of the NDA for the specified period.",
+  "exampleLanguage": "The confidentiality obligations set forth in this Agreement shall survive the termination or expiration of this Agreement for a period of five (5) years."
+}

@@ -1,0 +1,11 @@
+{
+  "precedentId": [
+    {
+      "id": "9766d88d-1e1f-4125-9011-62c77a3c8718",
+      "version": "1"
+    }
+  ],
+  "explanation": "The contract contains no clause disclaiming the creation of an agency, partnership, joint venture, or employment relationship, so the required clarification is missing.",
+  "rule": "Clarify that the NDA does not create any agency, partnership, joint venture, or employment relationship between the parties.",
+  "exampleLanguage": "Nothing in this Agreement shall be construed to create a partnership, joint venture, agency, or employment relationship between the parties. Each party is an independent contractor and shall not have the authority to bind or obligate the other party in any manner."
+}

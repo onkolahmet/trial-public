@@ -1,0 +1,11 @@
+{
+  "precedentId": [
+    {
+      "id": "40f0ecc7-9498-4fe5-b7bd-86ebdedddc81",
+      "version": "1"
+    }
+  ],
+  "explanation": "The NDA\u2019s confidentiality provision limits disclosure to \u201cRepresentatives,\u201d defined as directors, officers, employees, advisors, legal counselors, consultants and agents of the Receiving Party; affiliates are not included in that definition. Yet the later non-solicitation clause contemplates that the Receiving Party\u2019s affiliates may have received Confidential Information (\u201cto the extent that any such affiliates have received Confidential Information\u201d). Because the agreement (a) does not state that affiliates are parties to the NDA, (b) does not expressly authorize disclosure to affiliates, and (c) does not require that any affiliates be bound by confidentiality obligations equivalent to those in the NDA, it fails to give the clear clarification the rule requires. Consequently, the contract is not compliant with the \u201cAffiliates as Parties\u201d rule.",
+  "rule": "Clarify whether affiliates of the parties are included as parties to the NDA or are permitted to receive Confidential Information.",
+  "exampleLanguage": "The Receiving Party may disclose Confidential Information to its Affiliates, provided that such Affiliates are bound by confidentiality obligations no less restrictive than those contained in this Agreement. The Receiving Party shall remain fully responsible for ensuring that its Affiliates comply with these obligations."
+}

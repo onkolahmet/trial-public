@@ -1,0 +1,11 @@
+{
+  "precedentId": [
+    {
+      "id": "9766d88d-1e1f-4125-9011-62c77a3c8718",
+      "version": "1"
+    }
+  ],
+  "explanation": "The contract does not contain any clause requiring the parties to refrain from exporting or re-exporting Confidential Information in violation of applicable export control laws, since no relevant language was found.",
+  "rule": "Require that neither party will export or re-export any Confidential Information in violation of applicable export control laws.",
+  "exampleLanguage": "Each party agrees not to export or re-export any Confidential Information in violation of applicable export control laws."
+}

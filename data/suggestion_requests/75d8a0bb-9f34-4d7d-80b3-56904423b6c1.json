@@ -1,0 +1,11 @@
+{
+  "precedentId": [
+    {
+      "id": "9766d88d-1e1f-4125-9011-62c77a3c8718",
+      "version": "1"
+    }
+  ],
+  "explanation": "The contract does not contain an explicit statement that no third parties (other than any expressly identified) have rights under the NDA. Instead, it focuses on the ability of the Disclosing Party and its assignees to enforce the Agreement and is silent about excluding all other third-party beneficiaries. The rule requires an express disclaimer of third-party beneficiary rights, which is missing here.",
+  "rule": "State that there are no third party beneficiaries to the NDA unless expressly provided.",
+  "exampleLanguage": "This Agreement is for the sole benefit of the parties hereto and their respective successors and permitted assigns, and nothing herein, express or implied, is intended to or shall confer upon any other person or entity any legal or equitable right, benefit, or remedy of any nature whatsoever under or by reason of this Agreement."
+}

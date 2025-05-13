@@ -1,0 +1,11 @@
+{
+  "precedentId": [
+    {
+      "id": "40f0ecc7-9498-4fe5-b7bd-86ebdedddc81",
+      "version": "1"
+    }
+  ],
+  "explanation": "The compelled disclosure clause does require the Receiving Party to give prompt notice to the Disclosing Party before disclosing Confidential Information. However, it does not include the required carve-out that allows the Receiving Party to refrain from giving such notice when notification itself is prohibited by law or by the terms of a subpoena or other legal process. Because the contract omits the \u201cunless prohibited by law\u201d exception mandated by the rule, it is not compliant.",
+  "rule": "Require the Recipient to notify the Discloser of any subpoena or legal process seeking Confidential Information, unless prohibited by law.",
+  "exampleLanguage": "If the Recipient receives a subpoena, court order, or other legal process requesting disclosure of any Confidential Information, the Recipient shall promptly notify the Discloser in writing, unless prohibited by law, to allow the Discloser to seek a protective order or other appropriate remedy."
+}

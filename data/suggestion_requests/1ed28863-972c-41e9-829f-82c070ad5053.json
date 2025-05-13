@@ -1,0 +1,11 @@
+{
+  "precedentId": [
+    {
+      "id": "9766d88d-1e1f-4125-9011-62c77a3c8718",
+      "version": "1"
+    }
+  ],
+  "explanation": "The clause obligates the Receiving Party to return or destroy \"all Confidential Information\" upon request, but it does not expressly extend that obligation to materials derived from the Confidential Information (e.g., copies, summaries, analyses, derivative works). Because the rule specifically requires that derivative materials also be returned or destroyed, the contract language does not fully satisfy the rule.",
+  "rule": "Require the Recipient to return or destroy any materials derived from Confidential Information upon request.",
+  "exampleLanguage": "Upon termination of this Agreement, or upon the Disclosing Party's written request, the Recipient shall promptly return or destroy all materials derived from the Confidential Information, including any copies, summaries, or analyses thereof, and certify in writing that such return or destruction has been completed."
+}

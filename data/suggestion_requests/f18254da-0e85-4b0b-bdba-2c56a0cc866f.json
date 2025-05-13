@@ -1,0 +1,11 @@
+{
+  "precedentId": [
+    {
+      "id": "9766d88d-1e1f-4125-9011-62c77a3c8718",
+      "version": "1"
+    }
+  ],
+  "explanation": "The clause allows the Disclosing Party to assign the Agreement freely (including to affiliates or successors) without obtaining the Receiving Party\u2019s prior written consent, while restricting only the Receiving Party. The rule requires that neither party may assign without the prior written consent of the other party. Because the clause is one-sided and does not impose a consent requirement on both parties, it does not comply with the rule.",
+  "rule": "Prohibit assignment of the NDA or rights under it by either party without the prior written consent of the other party.",
+  "exampleLanguage": "Neither party may assign this Agreement or any rights or obligations hereunder without the prior written consent of the other party."
+}

@@ -1,0 +1,11 @@
+{
+  "precedentId": [
+    {
+      "id": "40f0ecc7-9498-4fe5-b7bd-86ebdedddc81",
+      "version": "1"
+    }
+  ],
+  "explanation": "The contract only references that service of process, summons, notice or document may be effected by U.S. registered mail sent to an address \"set forth below,\" but the actual physical address is not provided in the text we have, and no email address or alternative notice methods are specified. Because the rule requires that the NDA expressly specify both the method and the actual address (email or physical) for providing notices, the current language is insufficient.",
+  "rule": "Specify the method and address for providing notices under the NDA, including email or physical address.",
+  "exampleLanguage": "All notices, requests, waivers, and other communications under this Agreement must be in writing and are conclusively deemed to have been duly given: when hand-delivered to the other Party; when received if sent by facsimile or electronic mail to the number or email address set forth below, provided that the sending Party receives a confirmation of delivery; three (3) business days after deposit in the U.S. mail, with first class or certified mail, receipt requested, postage prepaid, and addressed to the other Party; or forty-eight (48) hours after deposit with an internationally recognized overnight delivery service, postage prepaid, addressed to the other Party as set forth below with next business-day delivery guaranteed, provided that the sending Party receives a confirmation of delivery from the delivery service provider. A Party may change or supplement the addresses, facsimile numbers, and email addresses provided in its signature block below, or designate additional addresses, facsimile numbers, or email addresses, for purposes of this Section by giving the other Party written notice of the new address, facsimile numbers, or email addresses in the manner set forth above."
+}

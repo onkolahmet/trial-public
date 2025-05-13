@@ -1,0 +1,11 @@
+{
+  "precedentId": [
+    {
+      "id": "9766d88d-1e1f-4125-9011-62c77a3c8718",
+      "version": "1"
+    }
+  ],
+  "explanation": "The clause identifies the Disclosing Party (and, by assignment, its affiliates or successors) as parties that may enforce the Agreement, but it never expressly states that no other third parties have any rights or remedies under the NDA. Because the rule requires an explicit statement that there are no third-party beneficiaries unless expressly provided, and such a disclaimer is missing, the language is not compliant.",
+  "rule": "State that there are no third party beneficiaries to the NDA unless expressly provided.",
+  "exampleLanguage": "This Agreement is for the sole benefit of the parties hereto and their respective successors and permitted assigns, and nothing herein, express or implied, is intended to or shall confer upon any other person or entity any legal or equitable right, benefit, or remedy of any nature whatsoever under or by reason of this Agreement."
+}

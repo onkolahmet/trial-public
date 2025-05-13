@@ -1,0 +1,11 @@
+{
+  "precedentId": [
+    {
+      "id": "40f0ecc7-9498-4fe5-b7bd-86ebdedddc81",
+      "version": "1"
+    }
+  ],
+  "explanation": "The clause protects \u201call information \u2026 in whatever form, whether oral, electronic or written, whether or not marked or otherwise identified as confidential.\u201d It does not require that oral disclosures be specifically identified as confidential at the time of disclosure or be followed by a written confirmation within any time frame. Therefore, it fails to satisfy the rule\u2019s mandatory conditions for protecting oral disclosures.",
+  "rule": "Require that oral disclosures must be identified as confidential at the time of disclosure and confirmed in writing within a specified period (e.g., 30 days) to be protected.",
+  "exampleLanguage": "Any oral disclosure of Confidential Information must be identified as confidential at the time of disclosure and confirmed in writing within thirty (30) days to be protected under this Agreement."
+}

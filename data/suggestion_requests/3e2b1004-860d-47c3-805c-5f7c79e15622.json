@@ -1,0 +1,11 @@
+{
+  "precedentId": [
+    {
+      "id": "40f0ecc7-9498-4fe5-b7bd-86ebdedddc81",
+      "version": "1"
+    }
+  ],
+  "explanation": "The contract states that the entire Agreement, including any confidentiality provisions, ends one year from the effective date, with no separate post-termination period during which confidentiality must still be maintained. The rule requires the confidentiality obligation to remain in force for a defined period\u2014typically two to five years\u2014after disclosure or after the Agreement ends. Because the contract provides no such post-termination confidentiality duration, it does not satisfy the rule.",
+  "rule": "Specify the duration of confidentiality obligations, commonly two to five years from the date of disclosure or termination of the agreement.",
+  "exampleLanguage": "The confidentiality obligations set forth in this Agreement shall remain in effect for a period of [three (3)] years following the date of disclosure of any Confidential Information, or for a period of [three (3)] years following the termination of this Agreement, whichever is later."
+}

@@ -1,0 +1,11 @@
+{
+  "precedentId": [
+    {
+      "id": "40f0ecc7-9498-4fe5-b7bd-86ebdedddc81",
+      "version": "1"
+    }
+  ],
+  "explanation": "The contract requires the Receiving Party to return or destroy all Confidential Information and only permits limited retention for legal compliance or backup media. It contains no language allowing the Recipient\u2019s personnel to use information that remains in their unaided memory. Because the agreement does not explicitly permit such residual use, it fails to satisfy the rule\u2019s requirement.",
+  "rule": "Permit the Recipient\u2019s personnel to use information retained in unaided memory, provided such use does not result in intentional disclosure or use of Confidential Information.",
+  "exampleLanguage": "Notwithstanding the foregoing, the Recipient's personnel may use Confidential Information retained in their unaided memory, provided such use does not result in intentional disclosure or use of Confidential Information."
+}

@@ -1,0 +1,11 @@
+{
+  "precedentId": [
+    {
+      "id": "40f0ecc7-9498-4fe5-b7bd-86ebdedddc81",
+      "version": "1"
+    }
+  ],
+  "explanation": "The clause restricts sharing and limits use of Confidential Information to evaluating the transaction, but it does not explicitly prohibit the Recipient from copying, reproducing, or duplicating the information. Because the rule requires an express prohibition on copying or reproduction except as necessary, and such language is absent, the contract is not compliant.",
+  "rule": "Prohibit the Recipient from copying or reproducing Confidential Information except as necessary to fulfill the purpose of the NDA.",
+  "exampleLanguage": "The Recipient shall not copy, reproduce, or otherwise duplicate any Confidential Information, except as necessary to fulfill the purpose of this Agreement."
+}

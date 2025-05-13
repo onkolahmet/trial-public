@@ -1,0 +1,11 @@
+{
+  "precedentId": [
+    {
+      "id": "9766d88d-1e1f-4125-9011-62c77a3c8718",
+      "version": "1"
+    }
+  ],
+  "explanation": "The cited provisions merely (a) classify the existence and terms of the Agreement and the contemplated transaction as \u201cConfidential Information\u201d and (b) describe how compelled disclosures are to be handled.  Nowhere in the supplied language is there an affirmative prohibition on either party issuing a public announcement or press release, nor is there any requirement to obtain the other party\u2019s prior written consent before doing so.  Because the rule requires an explicit bar on public announcements or press releases absent prior written consent, the current language is insufficient to satisfy the rule.",
+  "rule": "Prohibit either party from making any public announcement or press release regarding the existence or terms of the NDA or the contemplated transaction without prior written consent.",
+  "exampleLanguage": "Neither party shall make any public announcement or issue any press release regarding the existence or terms of this Agreement or the contemplated transaction without the prior written consent of the other party. This restriction does not apply to any disclosure required by law or any regulatory or governmental body."
+}

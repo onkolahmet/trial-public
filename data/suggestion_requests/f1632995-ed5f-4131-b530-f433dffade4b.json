@@ -1,0 +1,11 @@
+{
+  "precedentId": [
+    {
+      "id": "9766d88d-1e1f-4125-9011-62c77a3c8718",
+      "version": "1"
+    }
+  ],
+  "explanation": "The clause only clarifies that a waiver granted for one breach does not apply to prior or future breaches and that a waiver is not continuing. It does not address a party\u2019s failure or delay to enforce a provision, which is the specific requirement of the rule.",
+  "rule": "State that failure to enforce any provision of the NDA does not constitute a waiver of that provision or any other provision.",
+  "exampleLanguage": "No failure or delay by either party in exercising any right, power, or privilege under this Agreement shall operate as a waiver thereof, nor shall any single or partial exercise thereof preclude any other or further exercise of any right, power, or privilege hereunder."
+}

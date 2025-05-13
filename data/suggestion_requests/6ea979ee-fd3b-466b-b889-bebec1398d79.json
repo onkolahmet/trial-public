@@ -1,0 +1,11 @@
+{
+  "precedentId": [
+    {
+      "id": "40f0ecc7-9498-4fe5-b7bd-86ebdedddc81",
+      "version": "1"
+    }
+  ],
+  "explanation": "The contract only addresses the physical or electronic return, destruction, and limited archival retention of Confidential Information. It does not contain any provision allowing the Recipient\u2019s personnel to use information that remains in their unaided memory after complying with the return-or-destruction obligation. Because the required \u2018residuals\u2019 permission is entirely absent, the contract does not satisfy the rule.",
+  "rule": "Permit the Recipient\u2019s personnel to use information retained in unaided memory, provided such use does not result in intentional disclosure or use of Confidential Information.",
+  "exampleLanguage": "Notwithstanding the foregoing, the Recipient's personnel may use Confidential Information retained in their unaided memory, provided such use does not result in intentional disclosure or use of Confidential Information."
+}

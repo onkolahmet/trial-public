@@ -1,0 +1,11 @@
+{
+  "precedentId": [
+    {
+      "id": "40f0ecc7-9498-4fe5-b7bd-86ebdedddc81",
+      "version": "1"
+    }
+  ],
+  "explanation": "The clause defines Confidential Information to include all information conveyed, \"whether or not marked or otherwise identified as confidential.\" This expressly states that marking is not required for the information to receive protection, which is the opposite of the rule\u2019s requirement that information must be clearly marked (or later summarized in writing) to be protected. Therefore, the contract language does not comply with the marking requirement.",
+  "rule": "Require that Confidential Information be clearly marked as 'confidential' or with a similar legend to be protected under the NDA.",
+  "exampleLanguage": "The Disclosing Party shall clearly mark all Confidential Information provided to the Receiving Party in writing as \"Confidential\" or with a similar legend. For Confidential Information disclosed orally or visually, the Disclosing Party shall, within [30] days of disclosure, provide the Receiving Party with a written summary of such information, clearly marked as \"Confidential\" or with a similar legend. The Receiving Party shall have no obligation to maintain the confidentiality of any information that is not marked or summarized as confidential in accordance with this clause."
+}

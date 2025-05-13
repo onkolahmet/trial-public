@@ -1,0 +1,11 @@
+{
+  "precedentId": [
+    {
+      "id": "9766d88d-1e1f-4125-9011-62c77a3c8718",
+      "version": "1"
+    }
+  ],
+  "explanation": "The clause obligates the Receiving Party to \u201cpromptly notify the Disclosing Party\u201d whenever it is required by law or legal process to disclose Confidential Information. It does not provide any carve-out that relieves the Recipient of this notification duty when a statute, court order, or regulator prohibits such notice. The lawyer\u2019s rule requires the contract to mandate notice *unless prohibited by law*. Because that qualifying language is absent for subpoenas or other compelled disclosures, the contract does not satisfy the rule.",
+  "rule": "Require the Recipient to notify the Discloser of any subpoena or legal process seeking Confidential Information, unless prohibited by law.",
+  "exampleLanguage": "If the Recipient receives a subpoena, court order, or other legal process requesting disclosure of any Confidential Information, the Recipient shall promptly notify the Discloser in writing, unless prohibited by law, to allow the Discloser to seek a protective order or other appropriate remedy."
+}

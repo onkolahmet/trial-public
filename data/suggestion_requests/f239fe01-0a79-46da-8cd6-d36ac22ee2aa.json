@@ -1,0 +1,11 @@
+{
+  "precedentId": [
+    {
+      "id": "40f0ecc7-9498-4fe5-b7bd-86ebdedddc81",
+      "version": "1"
+    }
+  ],
+  "explanation": "The clause only states that the Disclosing Party has no obligation to provide or update Confidential Information; it does not address whether either party is obligated (or not) to move forward with any proposed transaction or business relationship. Because the NDA lacks explicit language making clear that neither party must proceed with a transaction, it fails to satisfy the rule.",
+  "rule": "Clarify that neither party is obligated to proceed with any proposed transaction or business relationship as a result of the NDA.",
+  "exampleLanguage": "Nothing herein shall obligate either party to proceed with any transaction between them, and each party reserves the right, in its sole discretion, to terminate the discussions contemplated by this Agreement. (thriveacquisition.com)"
+}

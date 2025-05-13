@@ -1,0 +1,11 @@
+{
+  "precedentId": [
+    {
+      "id": "9766d88d-1e1f-4125-9011-62c77a3c8718",
+      "version": "1"
+    }
+  ],
+  "explanation": "The provided NDA provision addresses the return or destruction of tangible and electronic copies of Confidential Information and allows limited retention for compliance/back-up purposes, but it does not grant the Recipient\u2019s personnel the right to rely on or use Confidential Information that remains in their unaided memory. Because the contract lacks any language permitting such residual memory use, it fails to satisfy the Residuals Clause requirement.",
+  "rule": "Permit the Recipient\u2019s personnel to use information retained in unaided memory, provided such use does not result in intentional disclosure or use of Confidential Information.",
+  "exampleLanguage": "Notwithstanding the foregoing, the Recipient's personnel may use Confidential Information retained in their unaided memory, provided such use does not result in intentional disclosure or use of Confidential Information."
+}

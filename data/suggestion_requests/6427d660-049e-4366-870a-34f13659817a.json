@@ -1,0 +1,11 @@
+{
+  "precedentId": [
+    {
+      "id": "40f0ecc7-9498-4fe5-b7bd-86ebdedddc81",
+      "version": "1"
+    }
+  ],
+  "explanation": "The contract language provided does not contain any clause that expressly prohibits either party from issuing public announcements or press releases about the NDA or the contemplated transaction. While the definition of \u201cConfidential Information\u201d includes the existence and terms of the agreement, there is no explicit mutual restriction on public disclosures or requirement for prior written consent before making such announcements, as the rule requires.",
+  "rule": "Prohibit either party from making any public announcement or press release regarding the existence or terms of the NDA or the contemplated transaction without prior written consent.",
+  "exampleLanguage": "Neither party shall make any public announcement or issue any press release regarding the existence or terms of this Agreement or the contemplated transaction without the prior written consent of the other party. This restriction does not apply to any disclosure required by law or any regulatory or governmental body."
+}

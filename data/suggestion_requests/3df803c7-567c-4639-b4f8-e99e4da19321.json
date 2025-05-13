@@ -1,0 +1,11 @@
+{
+  "precedentId": [
+    {
+      "id": "9766d88d-1e1f-4125-9011-62c77a3c8718",
+      "version": "1"
+    }
+  ],
+  "explanation": "The clause obligates the Receiving Party to 'promptly notify the Disclosing Party' of any compelled disclosure but does not add the qualifier 'unless prohibited by law' (or equivalent). Because the rule requires the notification duty to be expressly conditioned on legal prohibitions, the contract language falls short of full compliance.",
+  "rule": "Require the Recipient to notify the Discloser of any subpoena or legal process seeking Confidential Information, unless prohibited by law.",
+  "exampleLanguage": "If the Recipient receives a subpoena, court order, or other legal process requesting disclosure of any Confidential Information, the Recipient shall promptly notify the Discloser in writing, unless prohibited by law, to allow the Discloser to seek a protective order or other appropriate remedy."
+}

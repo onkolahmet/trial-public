@@ -1,0 +1,11 @@
+{
+  "precedentId": [
+    {
+      "id": "40f0ecc7-9498-4fe5-b7bd-86ebdedddc81",
+      "version": "1"
+    }
+  ],
+  "explanation": "The agreement defines the existence and terms of the NDA and the potential transaction as Confidential Information, and it restricts certain direct communications with the Disclosing Party\u2019s customers, suppliers, officers, and employees. However, it does not expressly prohibit either party from making a public announcement or issuing a press release about the existence or terms of the NDA or the contemplated transaction, nor does it require prior written consent before doing so. Because the specific prohibition required by the rule is missing, the contract is not compliant.",
+  "rule": "Prohibit either party from making any public announcement or press release regarding the existence or terms of the NDA or the contemplated transaction without prior written consent.",
+  "exampleLanguage": "Neither party shall make any public announcement or issue any press release regarding the existence or terms of this Agreement or the contemplated transaction without the prior written consent of the other party. This restriction does not apply to any disclosure required by law or any regulatory or governmental body."
+}

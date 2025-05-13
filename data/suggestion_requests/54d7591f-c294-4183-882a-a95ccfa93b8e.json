@@ -1,0 +1,11 @@
+{
+  "precedentId": [
+    {
+      "id": "9766d88d-1e1f-4125-9011-62c77a3c8718",
+      "version": "1"
+    }
+  ],
+  "explanation": "The clause limits permissible recipients of Confidential Information to a defined list of 'Representatives' (directors, officers, employees, advisors, legal counselors, consultants, financing sources, and agents). It does not mention affiliates, nor does it state whether affiliates are considered parties to the NDA or entitled to receive Confidential Information under comparable confidentiality obligations. Because the agreement fails to clarify affiliates\u2019 status, it does not satisfy the rule\u2019s requirement that affiliates be expressly addressed.",
+  "rule": "Clarify whether affiliates of the parties are included as parties to the NDA or are permitted to receive Confidential Information.",
+  "exampleLanguage": "The Receiving Party may disclose Confidential Information to its Affiliates, provided that such Affiliates are bound by confidentiality obligations no less restrictive than those contained in this Agreement. The Receiving Party shall remain fully responsible for ensuring that its Affiliates comply with these obligations."
+}

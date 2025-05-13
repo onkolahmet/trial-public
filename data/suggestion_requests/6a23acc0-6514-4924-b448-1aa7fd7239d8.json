@@ -1,0 +1,11 @@
+{
+  "precedentId": [
+    {
+      "id": "40f0ecc7-9498-4fe5-b7bd-86ebdedddc81",
+      "version": "1"
+    }
+  ],
+  "explanation": "The clause states that 'No rights or licenses of any nature are implied or granted under this Agreement,' which is a broad disclaimer. However, the rule requires an explicit statement that the disclosure of Confidential Information grants no license or right specifically 'under any patent, copyright, or other intellectual property right.' Because the contract language does not expressly reference patents, copyrights, or other IP rights in connection with the disclosure, it does not fully satisfy the rule\u2019s explicit requirement.",
+  "rule": "State that disclosure of Confidential Information does not grant any license or right under any patent, copyright, or other intellectual property right.",
+  "exampleLanguage": "The disclosure of Confidential Information under this Agreement does not grant the Receiving Party any license, express or implied, under any patent, copyright, trade secret, or other intellectual property right of the Disclosing Party."
+}

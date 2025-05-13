@@ -1,0 +1,21 @@
+api:
+  host: "127.0.0.1"
+  port: 8000
+
+database:
+  path: "evaluations.db"
+
+model:
+  name: "phi"
+  timeout: 120
+
+evaluation:
+  criteria:
+    - compliance
+    - minimal_edits
+    - example_usage
+  
+  weights:
+    compliance: 0.4
+    minimal_edits: 0.3
+    example_usage: 0.3

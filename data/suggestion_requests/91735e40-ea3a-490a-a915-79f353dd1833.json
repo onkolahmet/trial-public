@@ -1,0 +1,11 @@
+{
+  "precedentId": [
+    {
+      "id": "9766d88d-1e1f-4125-9011-62c77a3c8718",
+      "version": "1"
+    }
+  ],
+  "explanation": "The definition of \u201cConfidential Information\u201d automatically covers information communicated 'in whatever form, whether oral, electronic or written, whether or not marked or otherwise identified as confidential.' It places no duty on the Disclosing Party to (a) state at the time of an oral disclosure that the information is confidential or (b) follow up in writing within a specified timeframe. Because the contract protects oral disclosures unconditionally, it does not meet the rule\u2019s requirement that oral disclosures be identified as confidential when made and confirmed in writing within a set period (e.g., 30 days).",
+  "rule": "Require that oral disclosures must be identified as confidential at the time of disclosure and confirmed in writing within a specified period (e.g., 30 days) to be protected.",
+  "exampleLanguage": "Any oral disclosure of Confidential Information must be identified as confidential at the time of disclosure and confirmed in writing within thirty (30) days to be protected under this Agreement."
+}

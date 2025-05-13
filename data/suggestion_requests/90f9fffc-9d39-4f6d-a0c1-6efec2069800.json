@@ -1,0 +1,11 @@
+{
+  "precedentId": [
+    {
+      "id": "40f0ecc7-9498-4fe5-b7bd-86ebdedddc81",
+      "version": "1"
+    }
+  ],
+  "explanation": "The clause permits the Disclosing Party to assign the Agreement (including enforcement rights) without obtaining the Receiving Party\u2019s prior written consent, while the Receiving Party must obtain the Disclosing Party\u2019s consent. The rule requires that neither party be able to assign the NDA or any rights under it without the prior written consent of the other party. Because the contract gives the Disclosing Party a unilateral right to assign, it is not compliant.",
+  "rule": "Prohibit assignment of the NDA or rights under it by either party without the prior written consent of the other party.",
+  "exampleLanguage": "Neither party may assign this Agreement or any rights or obligations hereunder without the prior written consent of the other party."
+}

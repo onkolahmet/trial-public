@@ -1,0 +1,11 @@
+{
+  "precedentId": [
+    {
+      "id": "40f0ecc7-9498-4fe5-b7bd-86ebdedddc81",
+      "version": "1"
+    }
+  ],
+  "explanation": "The clause titled \u201cThird Party Beneficiaries; Assignment\u201d does not expressly state that no third-party beneficiaries exist. It only notes that the Disclosing Party may enforce the Agreement and may assign its rights, but it never includes the required disclaimer that no other persons or entities shall have rights under the NDA. Because the contract omits this explicit exclusion, it fails to satisfy the rule that the NDA must state there are no third-party beneficiaries unless expressly provided.",
+  "rule": "State that there are no third party beneficiaries to the NDA unless expressly provided.",
+  "exampleLanguage": "This Agreement is for the sole benefit of the parties hereto and their respective successors and permitted assigns, and nothing herein, express or implied, is intended to or shall confer upon any other person or entity any legal or equitable right, benefit, or remedy of any nature whatsoever under or by reason of this Agreement."
+}

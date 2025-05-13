@@ -1,0 +1,11 @@
+{
+  "precedentId": [
+    {
+      "id": "40f0ecc7-9498-4fe5-b7bd-86ebdedddc81",
+      "version": "1"
+    }
+  ],
+  "explanation": "The clause generally requires the Recipient to give immediate notice and cooperate in seeking protective measures when disclosure is compelled by law, satisfying most of the rule\u2019s requirements. However, it carves out an exception for routine regulatory inspections that are not primarily focused on the Discloser or the transaction, permitting disclosure without any notice obligation. Because the rule mandates that the Recipient give prompt notice for all legally compelled disclosures (unless legally prohibited), the absence of a notice requirement in this circumstance renders the provision non-compliant.",
+  "rule": "Allow disclosure of Confidential Information if required by law, regulation, or court order, provided the Recipient gives prompt notice to the Discloser and cooperates in seeking protective measures.",
+  "exampleLanguage": "If the Recipient is required by law, regulation, or court order to disclose any Confidential Information, the Recipient shall provide the Discloser with prompt written notice of such requirement, to the extent legally permitted, and shall cooperate with the Discloser in seeking a protective order or other appropriate remedy."
+}

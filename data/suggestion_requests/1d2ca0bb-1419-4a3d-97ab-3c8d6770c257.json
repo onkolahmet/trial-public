@@ -1,0 +1,11 @@
+{
+  "precedentId": [
+    {
+      "id": "9766d88d-1e1f-4125-9011-62c77a3c8718",
+      "version": "1"
+    }
+  ],
+  "explanation": "The agreement strictly limits use of Confidential Information to evaluating, negotiating, and consummating the potential transaction and requires return or destruction of all Confidential Information, with only narrow retention exceptions for compliance and system back-ups. It contains no provision allowing the Recipient\u2019s personnel to rely on information retained in their unaided memory after the information is returned or destroyed, nor any language carving out such residual use. Because the contract does not expressly permit residual memory use, it does not satisfy the Residuals Clause requirement.",
+  "rule": "Permit the Recipient\u2019s personnel to use information retained in unaided memory, provided such use does not result in intentional disclosure or use of Confidential Information.",
+  "exampleLanguage": "Notwithstanding the foregoing, the Recipient's personnel may use Confidential Information retained in their unaided memory, provided such use does not result in intentional disclosure or use of Confidential Information."
+}

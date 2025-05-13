@@ -1,0 +1,11 @@
+{
+  "precedentId": [
+    {
+      "id": "40f0ecc7-9498-4fe5-b7bd-86ebdedddc81",
+      "version": "1"
+    }
+  ],
+  "explanation": "While the agreement treats the existence and terms of the NDA and the potential transaction as Confidential Information, it nowhere expressly bars either party from issuing a public announcement or press release about them, nor does it require prior written consent before doing so. The compelled-disclosure clause only addresses legally required disclosures, not voluntary publicity. Because the contract lacks an explicit \u201cno publicity\u201d covenant meeting all elements of the rule, it is not compliant.",
+  "rule": "Prohibit either party from making any public announcement or press release regarding the existence or terms of the NDA or the contemplated transaction without prior written consent.",
+  "exampleLanguage": "Neither party shall make any public announcement or issue any press release regarding the existence or terms of this Agreement or the contemplated transaction without the prior written consent of the other party. This restriction does not apply to any disclosure required by law or any regulatory or governmental body."
+}

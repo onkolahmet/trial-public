@@ -1,0 +1,11 @@
+{
+  "precedentId": [
+    {
+      "id": "40f0ecc7-9498-4fe5-b7bd-86ebdedddc81",
+      "version": "1"
+    }
+  ],
+  "explanation": "The clause indicates that the Agreement is executed for the benefit of the Disclosing Party and that the Disclosing Party may assign its rights, but it never expressly disclaims the creation of rights in any other third party. The rule requires an explicit statement that no third-party beneficiaries exist unless expressly provided. Because such a disclaimer is missing, the contract language does not satisfy the rule.",
+  "rule": "State that there are no third party beneficiaries to the NDA unless expressly provided.",
+  "exampleLanguage": "This Agreement is for the sole benefit of the parties hereto and their respective successors and permitted assigns, and nothing herein, express or implied, is intended to or shall confer upon any other person or entity any legal or equitable right, benefit, or remedy of any nature whatsoever under or by reason of this Agreement."
+}

@@ -1,0 +1,11 @@
+{
+  "precedentId": [
+    {
+      "id": "40f0ecc7-9498-4fe5-b7bd-86ebdedddc81",
+      "version": "1"
+    }
+  ],
+  "explanation": "The NDA never states that either party may decline to move forward with any transaction or business relationship that might be discussed. The only related language merely says the Disclosing Party is not obligated to provide or update Confidential Information, which is narrower than reserving the right to terminate negotiations or refuse to proceed with a deal. Because the contract lacks an explicit \"no obligation to proceed\" provision, it fails to satisfy the rule.",
+  "rule": "Clarify that neither party is obligated to proceed with any proposed transaction or business relationship as a result of the NDA.",
+  "exampleLanguage": "Nothing herein shall obligate either party to proceed with any transaction between them, and each party reserves the right, in its sole discretion, to terminate the discussions contemplated by this Agreement. (thriveacquisition.com)"
+}

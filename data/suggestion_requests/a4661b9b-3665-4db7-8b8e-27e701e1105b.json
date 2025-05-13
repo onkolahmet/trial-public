@@ -1,0 +1,11 @@
+{
+  "precedentId": [
+    {
+      "id": "40f0ecc7-9498-4fe5-b7bd-86ebdedddc81",
+      "version": "1"
+    }
+  ],
+  "explanation": "The agreement imposes a strict obligation on the Receiving Party and its personnel not to share or use Confidential Information except for evaluating the potential transaction. It contains no provision that permits personnel to rely on information retained in their unaided memories after materials are returned or destroyed. Because the contract lacks any language comparable to the required residuals clause, it does not satisfy the rule.",
+  "rule": "Permit the Recipient\u2019s personnel to use information retained in unaided memory, provided such use does not result in intentional disclosure or use of Confidential Information.",
+  "exampleLanguage": "Notwithstanding the foregoing, the Recipient's personnel may use Confidential Information retained in their unaided memory, provided such use does not result in intentional disclosure or use of Confidential Information."
+}

@@ -1,0 +1,11 @@
+{
+  "precedentId": [
+    {
+      "id": "9766d88d-1e1f-4125-9011-62c77a3c8718",
+      "version": "1"
+    }
+  ],
+  "explanation": "The clause does require the Recipient to give prompt notice and to cooperate in seeking protective measures when disclosure is compelled by law. However, it then creates an exception for routine regulatory inspections: the Recipient need only give notice 'where such inspections, examinations or inquiries are primarily focused on the Disclosing Party or the potential Transaction.' If the inspection is not so focused, no notice obligation is imposed, even though nothing in the clause states that notice is legally prohibited. Because the rule requires the Recipient to provide prompt notice whenever legally permitted, the contract language fails to guarantee notice in all legally-permitted situations and is therefore not fully compliant.",
+  "rule": "Allow disclosure of Confidential Information if required by law, regulation, or court order, provided the Recipient gives prompt notice to the Discloser and cooperates in seeking protective measures.",
+  "exampleLanguage": "If the Recipient is required by law, regulation, or court order to disclose any Confidential Information, the Recipient shall provide the Discloser with prompt written notice of such requirement, to the extent legally permitted, and shall cooperate with the Discloser in seeking a protective order or other appropriate remedy."
+}

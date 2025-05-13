@@ -1,0 +1,11 @@
+{
+  "precedentId": [
+    {
+      "id": "9766d88d-1e1f-4125-9011-62c77a3c8718",
+      "version": "1"
+    }
+  ],
+  "explanation": "The clause generally permits the Receiving Party to disclose Confidential Information when compelled by law and obligates it to give the Disclosing Party prompt notice and to cooperate in seeking protective measures. However, it carves out an exception for routine regulatory inspections that are not \u2018primarily focused on the Disclosing Party or the potential Transaction.\u2019 In those situations, the Receiving Party may disclose the information without any notice, even if notice would be legally permissible. Because the rule requires the Recipient to provide prompt notice to the Discloser for all legally-compelled disclosures (subject only to legal prohibitions on giving notice), the contract\u2019s discretionary notice carve-out fails to meet the rule\u2019s notice requirement in every circumstance.",
+  "rule": "Allow disclosure of Confidential Information if required by law, regulation, or court order, provided the Recipient gives prompt notice to the Discloser and cooperates in seeking protective measures.",
+  "exampleLanguage": "If the Recipient is required by law, regulation, or court order to disclose any Confidential Information, the Recipient shall provide the Discloser with prompt written notice of such requirement, to the extent legally permitted, and shall cooperate with the Discloser in seeking a protective order or other appropriate remedy."
+}

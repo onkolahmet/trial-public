@@ -1,0 +1,11 @@
+{
+  "precedentId": [
+    {
+      "id": "9766d88d-1e1f-4125-9011-62c77a3c8718",
+      "version": "1"
+    }
+  ],
+  "explanation": "The clause clearly states that the Disclosing Party makes no express or implied representation or warranty regarding the accuracy or completeness of the Confidential Information, satisfying that portion of the rule. However, it does not expressly state that the information is provided \u201cas is,\u201d which the rule requires in addition to the warranty disclaimer. Because the \u201cas is\u201d language is absent, the provision does not fully meet the rule\u2019s requirements.",
+  "rule": "Discloser provides Confidential Information 'as is' and makes no representations or warranties as to its accuracy or completeness.",
+  "exampleLanguage": "The Discloser provides the Confidential Information on an \"as is\" basis, without any representations or warranties, express or implied, regarding its accuracy or completeness."
+}

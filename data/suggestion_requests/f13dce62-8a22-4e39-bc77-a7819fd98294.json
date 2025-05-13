@@ -1,0 +1,11 @@
+{
+  "precedentId": [
+    {
+      "id": "40f0ecc7-9498-4fe5-b7bd-86ebdedddc81",
+      "version": "1"
+    }
+  ],
+  "explanation": "The contract mentions that Confidential Information \"will remain subject to the terms of this Agreement notwithstanding its termination\" and that the Receiving Party is not relieved of responsibility for prior breaches. However, it never states that the confidentiality obligations survive for a defined, specific period (e.g., five years). The rule requires an explicit survival clause with a stated duration, which is absent here.",
+  "rule": "State that confidentiality obligations survive termination or expiration of the NDA for the specified period.",
+  "exampleLanguage": "The confidentiality obligations set forth in this Agreement shall survive the termination or expiration of this Agreement for a period of five (5) years."
+}

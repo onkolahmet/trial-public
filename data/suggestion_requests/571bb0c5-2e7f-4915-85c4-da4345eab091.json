@@ -1,0 +1,11 @@
+{
+  "precedentId": [
+    {
+      "id": "9766d88d-1e1f-4125-9011-62c77a3c8718",
+      "version": "1"
+    }
+  ],
+  "explanation": "The clause requires the Recipient to promptly return or destroy Confidential Information when the Discloser requests, but it does not expressly state that copies, extracts, and summaries must also be returned or destroyed, and it permits the Recipient to retain certain information for compliance and back-up purposes. Therefore it fails to satisfy the rule\u2019s requirement that all Confidential Information, including copies, extracts, and summaries, be returned or destroyed upon the Discloser\u2019s request.",
+  "rule": "Require the Recipient to promptly return or destroy all Confidential Information upon the Discloser's written request, including all copies, extracts, and summaries.",
+  "exampleLanguage": "Upon the Discloser's written request, the Recipient shall promptly return or destroy all Confidential Information, including all copies, extracts, and summaries thereof."
+}

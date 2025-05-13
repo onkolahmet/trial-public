@@ -1,0 +1,11 @@
+{
+  "precedentId": [
+    {
+      "id": "40f0ecc7-9498-4fe5-b7bd-86ebdedddc81",
+      "version": "1"
+    }
+  ],
+  "explanation": "The clause only states that the Disclosing Party has no obligation to provide Confidential Information and makes no warranties. It does not say that neither party is obligated to enter into any further agreement or transaction. Because the required disclaimer about future agreements or transactions is absent, the provision does not satisfy the rule.",
+  "rule": "Clarify that the NDA does not obligate either party to enter into any further agreement or transaction.",
+  "exampleLanguage": "This Agreement does not obligate either party to enter into any further agreement or transaction."
+}

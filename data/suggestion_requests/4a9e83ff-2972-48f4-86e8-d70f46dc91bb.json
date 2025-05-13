@@ -1,0 +1,11 @@
+{
+  "precedentId": [
+    {
+      "id": "9766d88d-1e1f-4125-9011-62c77a3c8718",
+      "version": "1"
+    }
+  ],
+  "explanation": "The agreement terminates after one year, and while it states that any retained Confidential Information remains subject to the agreement \"for so long as such material is retained,\" it never sets a definite survival period of two to five years (or any fixed period) for the confidentiality obligations. Because the rule requires the agreement to expressly specify a confidentiality-obligation duration\u2014commonly two to five years from disclosure or termination\u2014the contract language is not compliant.",
+  "rule": "Specify the duration of confidentiality obligations, commonly two to five years from the date of disclosure or termination of the agreement.",
+  "exampleLanguage": "The confidentiality obligations set forth in this Agreement shall remain in effect for a period of [three (3)] years following the date of disclosure of any Confidential Information, or for a period of [three (3)] years following the termination of this Agreement, whichever is later."
+}

@@ -1,0 +1,11 @@
+{
+  "precedentId": [
+    {
+      "id": "40f0ecc7-9498-4fe5-b7bd-86ebdedddc81",
+      "version": "1"
+    }
+  ],
+  "explanation": "The waiver clause only states that a granted waiver of a breach will not apply to earlier or later breaches and that a waiver is not continuing. It does not address the situation where a party merely fails or delays to enforce a provision; therefore it lacks the required statement that such inaction does not constitute a waiver of that or any other provision.",
+  "rule": "State that failure to enforce any provision of the NDA does not constitute a waiver of that provision or any other provision.",
+  "exampleLanguage": "No failure or delay by either party in exercising any right, power, or privilege under this Agreement shall operate as a waiver thereof, nor shall any single or partial exercise thereof preclude any other or further exercise of any right, power, or privilege hereunder."
+}

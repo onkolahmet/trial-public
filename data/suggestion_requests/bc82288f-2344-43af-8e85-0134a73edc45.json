@@ -1,0 +1,11 @@
+{
+  "precedentId": [
+    {
+      "id": "40f0ecc7-9498-4fe5-b7bd-86ebdedddc81",
+      "version": "1"
+    }
+  ],
+  "explanation": "The clause does require the Recipient to \u2018immediately notify\u2019 the Discloser when disclosure is compelled, but it does not add the qualifier \u2018unless prohibited by law\u2019 (or equivalent wording). Because the rule expressly demands that the notification obligation be subject to any legal prohibition on giving notice, the contract language is missing this exception and therefore does not fully comply.",
+  "rule": "Require the Recipient to notify the Discloser of any subpoena or legal process seeking Confidential Information, unless prohibited by law.",
+  "exampleLanguage": "If the Recipient receives a subpoena, court order, or other legal process requesting disclosure of any Confidential Information, the Recipient shall promptly notify the Discloser in writing, unless prohibited by law, to allow the Discloser to seek a protective order or other appropriate remedy."
+}

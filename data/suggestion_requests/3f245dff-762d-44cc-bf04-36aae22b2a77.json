@@ -1,0 +1,11 @@
+{
+  "precedentId": [
+    {
+      "id": "40f0ecc7-9498-4fe5-b7bd-86ebdedddc81",
+      "version": "1"
+    }
+  ],
+  "explanation": "The clause treats oral information as Confidential Information automatically, regardless of whether the information is identified as confidential at the time of disclosure or confirmed in writing afterwards. It therefore lacks the rule\u2019s required conditions that (a) an oral disclosure be expressly identified as confidential when made and (b) that it be confirmed in writing within a set period (e.g., 30 days) for protection.",
+  "rule": "Require that oral disclosures must be identified as confidential at the time of disclosure and confirmed in writing within a specified period (e.g., 30 days) to be protected.",
+  "exampleLanguage": "Any oral disclosure of Confidential Information must be identified as confidential at the time of disclosure and confirmed in writing within thirty (30) days to be protected under this Agreement."
+}

@@ -1,0 +1,11 @@
+{
+  "precedentId": [
+    {
+      "id": "40f0ecc7-9498-4fe5-b7bd-86ebdedddc81",
+      "version": "1"
+    }
+  ],
+  "explanation": "The clause restricts the Recipient\u2019s use of Confidential Information to evaluating, negotiating, and consummating the potential transaction, but it never expressly forbids the Recipient from reverse engineering, decompiling, or disassembling that information. Because the rule requires an explicit prohibition on those actions, the current language is not sufficient to meet the rule.",
+  "rule": "Prohibit the Recipient from reverse engineering, decompiling, or disassembling any Confidential Information received.",
+  "exampleLanguage": "The Recipient shall not reverse engineer, decompile, or disassemble any Confidential Information received under this Agreement."
+}

@@ -1,0 +1,11 @@
+{
+  "precedentId": [
+    {
+      "id": "40f0ecc7-9498-4fe5-b7bd-86ebdedddc81",
+      "version": "1"
+    }
+  ],
+  "explanation": "The contract contains no language requiring the parties to refrain from exporting or re-exporting Confidential Information in violation of applicable export control laws. Because this obligation is absent, the contract does not meet the rule\u2019s requirement.",
+  "rule": "Require that neither party will export or re-export any Confidential Information in violation of applicable export control laws.",
+  "exampleLanguage": "Each party agrees not to export or re-export any Confidential Information in violation of applicable export control laws."
+}

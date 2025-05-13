@@ -1,0 +1,11 @@
+{
+  "precedentId": [
+    {
+      "id": "9766d88d-1e1f-4125-9011-62c77a3c8718",
+      "version": "1"
+    }
+  ],
+  "explanation": "The clause does require the Receiving Party, upon the Disclosing Party\u2019s request, to promptly return or destroy all Confidential Information. However, it does not specify that the request must be in writing, nor does it expressly state that copies, extracts, and summaries are included. Because the rule mandates an explicit written-request trigger and an explicit reference to copies, extracts, and summaries, the contract language is not fully compliant.",
+  "rule": "Require the Recipient to promptly return or destroy all Confidential Information upon the Discloser's written request, including all copies, extracts, and summaries.",
+  "exampleLanguage": "Upon the Discloser's written request, the Recipient shall promptly return or destroy all Confidential Information, including all copies, extracts, and summaries thereof."
+}

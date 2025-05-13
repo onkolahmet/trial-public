@@ -1,0 +1,11 @@
+{
+  "precedentId": [
+    {
+      "id": "40f0ecc7-9498-4fe5-b7bd-86ebdedddc81",
+      "version": "1"
+    }
+  ],
+  "explanation": "The rule requires that neither party be able to assign the NDA or its rights without first obtaining the other party\u2019s written consent. The contract clause expressly permits the Disclosing Party to assign its rights to affiliates or successors without any consent from the Receiving Party, while restricting only the Receiving Party from assigning without consent. Because one party (the Disclosing Party) can assign unilaterally, the clause does not satisfy the mutual-consent requirement of the rule.",
+  "rule": "Prohibit assignment of the NDA or rights under it by either party without the prior written consent of the other party.",
+  "exampleLanguage": "Neither party may assign this Agreement or any rights or obligations hereunder without the prior written consent of the other party."
+}

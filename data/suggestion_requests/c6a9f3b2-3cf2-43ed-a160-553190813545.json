@@ -1,0 +1,11 @@
+{
+  "precedentId": [
+    {
+      "id": "40f0ecc7-9498-4fe5-b7bd-86ebdedddc81",
+      "version": "1"
+    }
+  ],
+  "explanation": "The clause does state that, upon the Discloser's request, the Recipient must return or destroy Confidential Information. However, it (i) allows the Recipient to KEEP certain Confidential Information for legal, regulatory, or back-up reasons, which means not *all* information must be returned or destroyed, and (ii) does not specify that the action must be taken \"promptly\" or that it covers \"copies, extracts, and summaries.\" Because the rule requires unconditional, prompt return or destruction of all such materials, the contract language is not fully compliant.",
+  "rule": "Require the Recipient to promptly return or destroy all Confidential Information upon the Discloser's written request, including all copies, extracts, and summaries.",
+  "exampleLanguage": "Upon the Discloser's written request, the Recipient shall promptly return or destroy all Confidential Information, including all copies, extracts, and summaries thereof."
+}

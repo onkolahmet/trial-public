@@ -1,0 +1,11 @@
+{
+  "precedentId": [
+    {
+      "id": "9766d88d-1e1f-4125-9011-62c77a3c8718",
+      "version": "1"
+    }
+  ],
+  "explanation": "The NDA imposes a blanket obligation not to use Confidential Information except for evaluating, negotiating, and consummating the potential transaction and to maintain strict confidentiality. It contains no clause that permits the Recipient\u2019s personnel to make subsequent use of information retained in unaided memory once the transaction evaluation is complete, nor any residuals carve-out language similar to the example provided. Therefore, the contract does not satisfy the requirement to allow personnel to use residual, unaided-memory information.",
+  "rule": "Permit the Recipient\u2019s personnel to use information retained in unaided memory, provided such use does not result in intentional disclosure or use of Confidential Information.",
+  "exampleLanguage": "Notwithstanding the foregoing, the Recipient's personnel may use Confidential Information retained in their unaided memory, provided such use does not result in intentional disclosure or use of Confidential Information."
+}

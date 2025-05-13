@@ -1,0 +1,11 @@
+{
+  "precedentId": [
+    {
+      "id": "9766d88d-1e1f-4125-9011-62c77a3c8718",
+      "version": "1"
+    }
+  ],
+  "explanation": "The contract only states that the Disclosing Party has no obligation to provide or update Confidential Information. It does not expressly state that neither party is obligated to move forward with any proposed deal or business relationship, nor that each party may terminate discussions at its discretion. Therefore, the agreement fails to meet the rule\u2019s requirement to clarify that no obligation to proceed exists for either party.",
+  "rule": "Clarify that neither party is obligated to proceed with any proposed transaction or business relationship as a result of the NDA.",
+  "exampleLanguage": "Nothing herein shall obligate either party to proceed with any transaction between them, and each party reserves the right, in its sole discretion, to terminate the discussions contemplated by this Agreement. (thriveacquisition.com)"
+}

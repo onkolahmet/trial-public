@@ -1,0 +1,11 @@
+{
+  "precedentId": [
+    {
+      "id": "9766d88d-1e1f-4125-9011-62c77a3c8718",
+      "version": "1"
+    }
+  ],
+  "explanation": "The contract language provided only defines what constitutes Confidential Information and outlines how compelled disclosures are to be handled. It does not contain any affirmative clause that expressly prohibits either party from making a public announcement or issuing a press release about the NDA or the contemplated transaction without the other party\u2019s prior written consent. Because this specific prohibition and consent requirement is missing, the contract does not meet the \u2018No Publicity\u2019 rule.",
+  "rule": "Prohibit either party from making any public announcement or press release regarding the existence or terms of the NDA or the contemplated transaction without prior written consent.",
+  "exampleLanguage": "Neither party shall make any public announcement or issue any press release regarding the existence or terms of this Agreement or the contemplated transaction without the prior written consent of the other party. This restriction does not apply to any disclosure required by law or any regulatory or governmental body."
+}

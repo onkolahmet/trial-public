@@ -1,0 +1,11 @@
+{
+  "precedentId": [
+    {
+      "id": "9766d88d-1e1f-4125-9011-62c77a3c8718",
+      "version": "1"
+    }
+  ],
+  "explanation": "The contract only states that the Disclosing Party has no obligation to provide or update Confidential Information. It does not expressly say that neither party is obligated to enter into any further agreement or transaction, which is the requirement of the rule.",
+  "rule": "Clarify that the NDA does not obligate either party to enter into any further agreement or transaction.",
+  "exampleLanguage": "This Agreement does not obligate either party to enter into any further agreement or transaction."
+}
